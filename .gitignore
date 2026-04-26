@@ -1,0 +1,8 @@
+# Don't commit logs or crash dumps
+*.log
+*.dmp
+*.pdb
+
+# Don't commit downloaded SDK dumps
+Dumper-7-output/
+SDK/
